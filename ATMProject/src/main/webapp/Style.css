@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+.container{
+border : 5px solid;
+text-align : center;
+width : 500px;
+height : 500px;
+position : relative;
+right : -500px;
+background-color :red;
+color : yellow;
+}
